@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Jim Junior</h1>
-<h3 align="center">A passionate frontend developer from Uganda.</h3>
+<h1 align="center">👋</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jim-junior&label=Profile%20views&color=0e75b6&style=flat" alt="jim-junior" /> </p>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- **Blockchain Development**
 
-- 💬 Ask me about **DevOps**
+- **DevOps**
+
+- **Web Development**
+
+- **Mobile Development**
+
+- **System Programming**
 
 ### Connect with me:
 
@@ -13,8 +19,6 @@
 <a href="https://dev.to/jimjunior" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jimjunior" height="30" width="40" /></a>
 <a href="https://twitter.com/jimjuniorb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jimjuniorb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19239907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19239907" height="30" width="40" /></a>
-<a href="https://instagram.com/jim.junior_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jim.junior_" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools:
 
