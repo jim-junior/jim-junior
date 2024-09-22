@@ -9,14 +9,9 @@ Here are a few personal projects
 - **`crane-operator`**: Crane Operator is a Kubernetes operator that simplifies application deployment by enabling you to write one simple `yaml` configuration file and the operator handles everything else from setting up Pod/Deployments, Services, Volumes, Ingress, SSL and DNS and more.
 - **`ugmobilemoney-py`**: UG Mobile Money is a python library for making mobile money transactions in Uganda through various Certified Payment Providers.
 - **`django-urlshortner`**: A python library and Django app that provides A set of utils to build custom fully-functional URL Shortner in Django.
-- and more....
+
 
 Check me out my projects [here](https://open.cranom.tech)
-
-
-I also write a blogs and Technical articles in the field a of Web development and you can check them out on my [Dev.to](https://dev.to/jimjunior)
-
-Interested in contacting me. Email at jimjunior854@gmail.com
 
 
 
