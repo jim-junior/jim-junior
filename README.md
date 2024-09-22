@@ -13,9 +13,8 @@ Here are a few personal projects
 
 Check me out my projects [here](https://open.cranom.tech)
 
-Oohh, I dont stop there.
 
-I also write a blogs and Technical articles in the field a of Web development and you can check them out on my [Dev.to](https://dev.to/jimjunior) and [Meduim](https://jimjunior.medium.com/) profiles
+I also write a blogs and Technical articles in the field a of Web development and you can check them out on my [Dev.to](https://dev.to/jimjunior)
 
 Interested in contacting me. Email at jimjunior854@gmail.com
 
