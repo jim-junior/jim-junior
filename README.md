@@ -1,6 +1,6 @@
 Hey there,
 
-I am Beingana Jim Junior,
+I am Beingana Jim Junior, I love implemeting open standards into code.
 
 Here are a few personal projects
 
