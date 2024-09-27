@@ -4,6 +4,7 @@ I am Beingana Jim Junior,
 
 Here are a few personal projects
 
+- **`gopq`**: Implementations of various [Post-quantum cryptography (PQC)](https://en.wikipedia.org/wiki/Post-quantum_cryptography) algorithms in Golang.
 - **`reactjs-media`**: A React Conponent library that make building Media applications in React easy in a more React Fashion. It also provides a wrapper to interact with the WebRTC API in a more intutive, easy and Straight forward manner.
 - **`orbiton`**: A JavaScript/TypeScript library for building User Interfaces( Think of it as a React/Vue Clone). 
 - **`crane-operator`**: Crane Operator is a Kubernetes operator that simplifies application deployment by enabling you to write one simple `yaml` configuration file and the operator handles everything else from setting up Pod/Deployments, Services, Volumes, Ingress, SSL and DNS and more.
