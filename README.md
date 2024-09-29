@@ -2,7 +2,7 @@ Hey there,
 
 I am Beingana Jim Junior, I love implemeting open standards into code.
 
-Here are a few personal projects
+Here are a few open source projects i work on
 
 - **`gopq-crypto`**: Implementations of various [Post-quantum cryptography (PQC)](https://en.wikipedia.org/wiki/Post-quantum_cryptography) algorithms in Golang.
 - **`reactjs-media`**: A React Conponent library that make building Media applications in React easy in a more React Fashion. It also provides a wrapper to interact with the WebRTC API in a more intutive, easy and Straight forward manner.
