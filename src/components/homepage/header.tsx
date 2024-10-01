@@ -1,6 +1,4 @@
-import React from "react";
-import { Box, Typography, Sheet, AspectRatio } from "@mui/joy";
-import { Link } from "react-router-dom";
+import { Box, Typography } from "@mui/joy";
 import { typographyClasses } from "@mui/joy/Typography";
 import photo from "../../assets/passport_photo.jpg";
 
