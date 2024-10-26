@@ -2,8 +2,6 @@ Hey there,
 
 I am Beingana Jim Junior, A Software Engineering Student.
 
-I enjoy implementing Open Standards, Research Papers and White paper documents that can be implemented into Code.
-
 Here are a few of my personal projects.
 
 - **`gopq-crypto`**: Implementations of various [Post-quantum cryptography (PQC)](https://en.wikipedia.org/wiki/Post-quantum_cryptography) algorithms in Golang.
