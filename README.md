@@ -11,7 +11,9 @@ Here are a few of my personal projects.
 - **`ugmobilemoney-py`**: UG Mobile Money is a python library for making mobile money transactions in Uganda through various Certified Payment Providers.
 - **`django-urlshortner`**: A python library and Django app that provides A set of utils to build custom fully-functional URL Shortner in Django.
 
+---
 
+I am currently learning AI.
 
 
 <br clear="both">
