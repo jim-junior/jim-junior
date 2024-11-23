@@ -13,8 +13,6 @@ Here are a few of my personal projects.
 
 ---
 
-I am currently learning AI.
-
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/jim-junior/portfolio/output/snake.svg" alt="Snake animation" />
