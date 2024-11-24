@@ -13,6 +13,8 @@ Here are a few of my personal projects.
 
 ---
 
+Some advice to y'all: **Don't do drugs**
+
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/jim-junior/portfolio/output/snake.svg" alt="Snake animation" />
