@@ -9,7 +9,6 @@ Here are a few of my personal projects.
 - **`reactjs-media`**: A React Component library that make building Media applications in React easy in a more React Fashion. It also provides a wrapper to interact with the WebRTC API in a more intutive, easy and Straight forward manner.
 - **`ugmobilemoney-py`**: UG Mobile Money is a python library for making mobile money transactions in Uganda through various Certified Payment Providers.
 - **`django-urlshortner`**: A python library and Django app that provides A set of utils to build custom fully-functional URL Shortner in Django.
-- **`gopq-crypto`**: Implementations of various [Post-quantum cryptography (PQC)](https://en.wikipedia.org/wiki/Post-quantum_cryptography) algorithms in Golang.
 
 
 
