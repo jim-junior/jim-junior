@@ -2,6 +2,8 @@ Hey there,
 
 I am Beingana Jim Junior, A Software Engineering Student.
 
+[Website](https://jim-junior.githib.io) | [Blog](https://jim-junior.github.io/#/blog) | [Projects](https://orbiton.js.org/open-ug)
+
 Here are a few of my personal projects.
 
 
