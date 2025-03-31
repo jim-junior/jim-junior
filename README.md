@@ -4,9 +4,6 @@ I am Beingana Jim Junior, A Software Engineering Student.
 
 [Website](https://jim-junior.github.io) | [Blog](https://jim-junior.github.io/#/blog) | [Projects](https://orbiton.js.org/open-ug)
 
-Building:
-- [CT Cloud](https://cloud.cranom.tech/)
-- [Open UG](https://orbiton.js.org/open-ug)
 
 Here are a few of my personal projects.
 
