@@ -1,6 +1,6 @@
 Hey there,
 
-I am Beingana Jim Junior, A Software Engineering Student.
+I am Beingana Jim Junior, a DevOps Engineer.
 
 [Website](https://jim-junior.github.io) | [Blog](https://jim-junior.github.io/#/blog) | [Projects](https://orbiton.js.org/open-ug)
 
