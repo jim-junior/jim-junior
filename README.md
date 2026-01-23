@@ -1,6 +1,4 @@
-Hey there,
-
-I am Beingana Jim Junior, a Software Engineering Student @ [Mak](https://mak.ac.ug/).
+Software Engineering Student @ [Mak](https://mak.ac.ug/).
 
 [Website](https://jim-junior.github.io) | [Blog](https://jim-junior.github.io/blog) | [Projects](https://jim-junior.github.io/projects) | [Resume](https://jim-junior.github.io/files/Resume_Beingana_Jim_Junior.pdf)
 
