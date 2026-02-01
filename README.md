@@ -14,7 +14,7 @@ Here are a few projects I have worked On.
 - **`django-urlshortner`**: A python library and Django app that provides A set of utils to build custom fully-functional URL Shortner in Django.
 
 
-
+![My GitHub Game](game.gif)
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/jim-junior/portfolio/output/snake.svg" alt="Snake animation" />
